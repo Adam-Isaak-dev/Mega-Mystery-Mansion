@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 0c91f36acc70ccb459b5c49837c54db6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2676083503207627471
+    second: Sheets_KitchenAssets2_0
+  - first:
+      213: -3083048956863869786
+    second: Sheets_KitchenAssets2_1
+  - first:
+      213: -6510938752762935720
+    second: Sheets_KitchenAssets2_2
+  - first:
+      213: 3088529777674235442
+    second: Sheets_KitchenAssets2_3
+  - first:
+      213: 1313419194104065500
+    second: Sheets_KitchenAssets2_4
+  - first:
+      213: 8436635178847560948
+    second: Sheets_KitchenAssets2_5
+  - first:
+      213: 612237120835749036
+    second: Sheets_KitchenAssets2_6
+  - first:
+      213: 3693238136406318236
+    second: Sheets_KitchenAssets2_7
+  - first:
+      213: 2752384902467819730
+    second: Sheets_KitchenAssets2_8
+  - first:
+      213: 4257226872695321692
+    second: Sheets_KitchenAssets2_9
+  - first:
+      213: -5105371906346353390
+    second: Sheets_KitchenAssets2_10
+  - first:
+      213: 1899756481412626755
+    second: Sheets_KitchenAssets2_11
+  - first:
+      213: -9090629926659478281
+    second: Sheets_KitchenAssets2_12
+  - first:
+      213: -7128816739948561122
+    second: Sheets_KitchenAssets2_13
+  - first:
+      213: -6565399810265409138
+    second: Sheets_KitchenAssets2_14
+  - first:
+      213: 7359141215769625566
+    second: Sheets_KitchenAssets2_15
+  - first:
+      213: 5725335516717740308
+    second: Sheets_KitchenAssets2_16
+  - first:
+      213: 2463061679147794402
+    second: Sheets_KitchenAssets2_17
+  - first:
+      213: -8133009682131766733
+    second: Sheets_KitchenAssets2_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 791
+        width: 111
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135c60a7b34acdad0800000000000000
+      internalID: -2676083503207627471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 810
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac8df4fe4fc635d0800000000000000
+      internalID: -3083048956863869786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 757
+        width: 330
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8568d3763bf74a5a0800000000000000
+      internalID: -6510938752762935720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 636
+        width: 367
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e2d741879acda20800000000000000
+      internalID: 3088529777674235442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_4
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 630
+        width: 323
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdda0c95cc33a3210800000000000000
+      internalID: 1313419194104065500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 176
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4e5c6fef2f41570800000000000000
+      internalID: 8436635178847560948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 482
+        width: 145
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca409b9ea6a1f7800800000000000000
+      internalID: 612237120835749036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 368
+        width: 246
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c9c677484014330800000000000000
+      internalID: 3693238136406318236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_8
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 323
+        width: 264
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d81ebc6c7f623620800000000000000
+      internalID: 2752384902467819730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_9
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 315
+        width: 260
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c547043f845b41b30800000000000000
+      internalID: 4257226872695321692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 280
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d77f3fc431629b0800000000000000
+      internalID: -5105371906346353390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 272
+        width: 55
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349785a547a4d5a10800000000000000
+      internalID: 1899756481412626755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 277
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc2de4fe3897d180800000000000000
+      internalID: -9090629926659478281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1df182f1fa511d90800000000000000
+      internalID: -7128816739948561122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7
+        width: 70
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8996b458a303e4a0800000000000000
+      internalID: -6565399810265409138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 179
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed382e102fbe02660800000000000000
+      internalID: 7359141215769625566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 20
+        width: 410
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41173ed715a747f40800000000000000
+      internalID: 5725335516717740308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_17
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 19
+        width: 264
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef3b7d1c8d8e2220800000000000000
+      internalID: 2463061679147794402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets_KitchenAssets2_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33239bdd8ceb12f80800000000000000
+      internalID: -8133009682131766733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

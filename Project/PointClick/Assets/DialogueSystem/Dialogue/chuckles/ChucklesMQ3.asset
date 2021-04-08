@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d18a34cba86246d4f9b8e339015839f7, type: 3}
+  m_Name: ChucklesMQ3
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: Oh nevermind that! It doesn't concern you. My reputation is at stake,
+      I don't need some rando human to rub it in!
+    characterEmotion: 0
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: c069e5dbc8b3ce84fa746e3799a9aa9e, type: 3}
+  oldMusic: {fileID: 8300000, guid: c069e5dbc8b3ce84fa746e3799a9aa9e, type: 3}
+  questionText: Anything else?
+  optionsInfo:
+  - nextDialogue: {fileID: 11400000, guid: 43cb4e499e2ec7e4d89b027b69c9ef31, type: 2}
+    buttonName: I'm looking for a way out of here.
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - nextDialogue: {fileID: 11400000, guid: 52d5185a66212eb4495e5ac13a1ded04, type: 2}
+    buttonName: Does anyone live here?
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []

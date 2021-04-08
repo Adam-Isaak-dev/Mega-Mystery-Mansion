@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: 043dc58114d5ec04db9cb3ecbf114161
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 778777093371606264
+    second: ArmorBolt_0
+  - first:
+      213: -3806167591221207652
+    second: ArmorBolt_1
+  - first:
+      213: -1042879316497226045
+    second: ArmorBolt_2
+  - first:
+      213: 6291122832161500214
+    second: ArmorBolt_3
+  - first:
+      213: -3787204005266864649
+    second: ArmorBolt_4
+  - first:
+      213: -990044467412935481
+    second: ArmorBolt_5
+  - first:
+      213: 4356734063984507863
+    second: ArmorBolt_6
+  - first:
+      213: 5149255487424568458
+    second: ArmorBolt_7
+  - first:
+      213: 6903194361362790491
+    second: ArmorBolt_8
+  - first:
+      213: -5449439829299460323
+    second: ArmorBolt_9
+  - first:
+      213: -1487520428033724682
+    second: ArmorBolt_10
+  - first:
+      213: 278569058933078963
+    second: ArmorBolt_11
+  - first:
+      213: 1450488728050103935
+    second: ArmorBolt_12
+  - first:
+      213: -7728873529087339630
+    second: ArmorBolt_13
+  - first:
+      213: -2518568202471625644
+    second: ArmorBolt_14
+  - first:
+      213: 4569544454590103568
+    second: ArmorBolt_15
+  - first:
+      213: -7793789485614673602
+    second: ArmorBolt_16
+  - first:
+      213: 5655836861158758865
+    second: ArmorBolt_17
+  - first:
+      213: -5227165278681129987
+    second: ArmorBolt_18
+  - first:
+      213: -9189773834092829735
+    second: ArmorBolt_0
+  - first:
+      213: 6108692321386138678
+    second: ArmorBolt_1
+  - first:
+      213: 4495992675098169028
+    second: ArmorBolt_2
+  - first:
+      213: 1320627125214676967
+    second: ArmorBolt_3
+  - first:
+      213: -9128320342157543447
+    second: ArmorBolt_4
+  - first:
+      213: -6758651566190436937
+    second: ArmorBolt_5
+  - first:
+      213: -7153061918929463942
+    second: ArmorBolt_6
+  - first:
+      213: -8073568500714830044
+    second: ArmorBolt_7
+  - first:
+      213: 550908649782173125
+    second: ArmorBolt_8
+  - first:
+      213: 6687050038117709197
+    second: ArmorBolt_9
+  - first:
+      213: 7690875394001294049
+    second: ArmorBolt_10
+  - first:
+      213: 210053007778085453
+    second: ArmorBolt_11
+  - first:
+      213: 3593023033436152867
+    second: ArmorBolt_12
+  - first:
+      213: -4734919020455856733
+    second: ArmorBolt_13
+  - first:
+      213: 8054024037376236368
+    second: ArmorBolt_14
+  - first:
+      213: -7906444275648942572
+    second: ArmorBolt_15
+  - first:
+      213: 780141203369791156
+    second: ArmorBolt_16
+  - first:
+      213: 5013181100391778622
+    second: ArmorBolt_17
+  - first:
+      213: -2282035731694258842
+    second: ArmorBolt_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArmorBolt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 256
+        height: 309
+      alignment: 9
+      pivot: {x: 0.4887602, y: 0.2392665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a7bc236d577080800000000000000
+      internalID: -9189773834092829735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1132
+        width: 43
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4479739, y: 0.38899803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c80621d4f66c450800000000000000
+      internalID: 6108692321386138678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1006
+        width: 167
+        height: 271
+      alignment: 9
+      pivot: {x: 0.7076365, y: 0.5288924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce0cf76489f46e30800000000000000
+      internalID: 4495992675098169028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 999
+        width: 167
+        height: 271
+      alignment: 9
+      pivot: {x: 0.20529011, y: 0.5495304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e78a279f5fc35210800000000000000
+      internalID: 1320627125214676967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_4
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 516
+        width: 190
+        height: 770
+      alignment: 9
+      pivot: {x: 0.7590348, y: 0.9169172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e73ab14301b15180800000000000000
+      internalID: -9128320342157543447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 994
+        width: 43
+        height: 131
+      alignment: 9
+      pivot: {x: 0.49999928, y: 0.33776575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd49c95327432a0800000000000000
+      internalID: -6758651566190436937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 650
+        width: 165
+        height: 292
+      alignment: 9
+      pivot: {x: 0.7847238, y: 0.7528248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75d5d155183bbc90800000000000000
+      internalID: -7153061918929463942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 640
+        width: 165
+        height: 292
+      alignment: 9
+      pivot: {x: 0.19493833, y: 0.7987928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4270c15693ce4ff80800000000000000
+      internalID: -8073568500714830044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 688
+        width: 173
+        height: 184
+      alignment: 9
+      pivot: {x: 0.19611408, y: 0.12917328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdd4f58f7835a700800000000000000
+      internalID: 550908649782173125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 823
+        width: 79
+        height: 134
+      alignment: 9
+      pivot: {x: 0.35840926, y: 0.14105909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85b445849c2dcc50800000000000000
+      internalID: 6687050038117709197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_10
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 679
+        width: 79
+        height: 134
+      alignment: 9
+      pivot: {x: 0.54247737, y: 0.13271184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e25d3f3c6a7bba60800000000000000
+      internalID: 7690875394001294049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 291
+        width: 321
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a7d9009124ae200800000000000000
+      internalID: 210053007778085453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 347
+        width: 107
+        height: 261
+      alignment: 9
+      pivot: {x: 0.6254458, y: 0.7571397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32422c9896bfcd130800000000000000
+      internalID: 3593023033436152867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_13
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 364
+        width: 122
+        height: 272
+      alignment: 9
+      pivot: {x: 0.38080886, y: 0.7344035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5fc71dc303a4eb0800000000000000
+      internalID: -4734919020455856733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_14
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 256
+        width: 173
+        height: 184
+      alignment: 9
+      pivot: {x: 0.7974197, y: 0.18388548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b9440a034a5cf60800000000000000
+      internalID: 8054024037376236368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_15
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 90
+        width: 161
+        height: 392
+      alignment: 9
+      pivot: {x: 0.4583145, y: 0.92801964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e268942daa64290800000000000000
+      internalID: -7906444275648942572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 283
+        height: 271
+      alignment: 9
+      pivot: {x: 0.51185733, y: 0.83020145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be80858a4e93da00800000000000000
+      internalID: 780141203369791156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 17
+        width: 126
+        height: 305
+      alignment: 9
+      pivot: {x: 0.5887747, y: 0.8850774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39cd8b56a5629540800000000000000
+      internalID: 5013181100391778622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBolt_18
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 0
+        width: 127
+        height: 304
+      alignment: 9
+      pivot: {x: 0.35907847, y: 0.8679468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657d9fb7949450e0800000000000000
+      internalID: -2282035731694258842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

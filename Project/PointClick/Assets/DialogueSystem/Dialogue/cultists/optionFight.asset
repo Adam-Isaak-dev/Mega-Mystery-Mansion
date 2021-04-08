@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d18a34cba86246d4f9b8e339015839f7, type: 3}
+  m_Name: optionFight
+  m_EditorClassIdentifier: 
+  dialogueInfo: []
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: ac48626adf053514fb5157f030a1eaaa, type: 3}
+  oldMusic: {fileID: 8300000, guid: ac48626adf053514fb5157f030a1eaaa, type: 3}
+  questionText: Do anything?
+  optionsInfo:
+  - nextDialogue: {fileID: 11400000, guid: af315448f18b04f45b75a5605eaed587, type: 2}
+    buttonName: Hey! Break it up!
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - nextDialogue: {fileID: 11400000, guid: af315448f18b04f45b75a5605eaed587, type: 2}
+    buttonName: I'll just wait this out...
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - nextDialogue: {fileID: 11400000, guid: af315448f18b04f45b75a5605eaed587, type: 2}
+    buttonName: Are you even hitting each other?
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - nextDialogue: {fileID: 11400000, guid: af315448f18b04f45b75a5605eaed587, type: 2}
+    buttonName: What am I even watching?
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []

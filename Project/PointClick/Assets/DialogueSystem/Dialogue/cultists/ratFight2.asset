@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: ratFight2
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: You.  Heckles.  We meet again.
+    characterEmotion: 1
+  - character: {fileID: 11400000, guid: 9420d39cb731f3d4c95430ce99d1d5fe, type: 2}
+    myText: Chuckles.  I haven't seen you since culinary school.  WHERE YOU MADE
+      A MOCKERY OF ME IN PUBLIC.  I've always been a better chef then you could ever
+      be!
+    characterEmotion: 1
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: That's not true.  At least, not anymore.  But you turned away from the
+      culinary arts to pursue the dark arts.  You bolstered your skill with magic,
+      but your dark powers can't compete with the real deal!
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 9420d39cb731f3d4c95430ce99d1d5fe, type: 2}
+    myText: THAT'S IMPOSSIBLE.  I AM THE SUPERIOR CHEF!!!
+    characterEmotion: 1
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: ALL RIGHT THEN, LET'S SETTLE THIS.
+    characterEmotion: 1
+  - character: {fileID: 11400000, guid: 9420d39cb731f3d4c95430ce99d1d5fe, type: 2}
+    myText: Like rats?
+    characterEmotion: 1
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: LIKE CHEFS!
+    characterEmotion: 1
+  tutorialTrigger: 24
+  myMusic: {fileID: 8300000, guid: 18f42310fa825f8459bd84cbc464f02a, type: 3}
+  oldMusic: {fileID: 8300000, guid: ac48626adf053514fb5157f030a1eaaa, type: 3}

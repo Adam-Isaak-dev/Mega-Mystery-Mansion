@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: skele_wrong3
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: a461ad046bcc9a048884ea51d619e3ce, type: 2}
+    myText: Nobody's perfect, it can take years to sense these vibes.  Let's watch
+      that one again, shall we?
+    characterEmotion: 2
+  tutorialTrigger: 14
+  myMusic: {fileID: 8300000, guid: d2aa35259ec1f0c4c9bd9ba025b479c9, type: 3}
+  oldMusic: {fileID: 8300000, guid: d2aa35259ec1f0c4c9bd9ba025b479c9, type: 3}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d18a34cba86246d4f9b8e339015839f7, type: 3}
+  m_Name: fredMQ3
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: a461ad046bcc9a048884ea51d619e3ce, type: 2}
+    myText: The prize is the trophy and your picture up in the hall of fame.  You
+      probably came through the hall on your way in here, my groovy skeleton.
+    characterEmotion: 0
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: 0dab66326464acf4094370df7549f323, type: 3}
+  oldMusic: {fileID: 8300000, guid: 0dab66326464acf4094370df7549f323, type: 3}
+  questionText: Anything else?
+  optionsInfo:
+  - nextDialogue: {fileID: 11400000, guid: d8b9456b3969c3c408c07221c9c25297, type: 2}
+    buttonName: Can I join the dance-off?
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - nextDialogue: {fileID: 11400000, guid: 039d1432193f7d54b8a48aab6998b64c, type: 2}
+    buttonName: Why did you call me a skeleton?
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []

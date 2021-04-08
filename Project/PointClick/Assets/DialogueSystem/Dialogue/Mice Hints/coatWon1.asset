@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: coatWon1
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 5e46686d402284c42bdb4b71c36ce68a, type: 2}
+    myText: ...yes, this is the good stuff.  Thank you. Human.
+    characterEmotion: 0
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: 6c8f26f399628f947af5e3caac401e2e, type: 3}
+  oldMusic: {fileID: 8300000, guid: 6c8f26f399628f947af5e3caac401e2e, type: 3}

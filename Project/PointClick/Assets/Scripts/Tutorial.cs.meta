@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: c8f3bb436c8ab444ea942e7924674aa1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tut0dia: {instanceID: 0}
+  - cutsceneImage: {instanceID: 0}
+  - cutsceneText: {instanceID: 0}
+  - BG1: {instanceID: 0}
+  - spookMusic: {instanceID: 0}
+  - ghostIntroDia: {instanceID: 0}
+  - ghostWinDia: {instanceID: 0}
+  - ghostLoseDia: {instanceID: 0}
+  - cardGet: {instanceID: 0}
+  - blackScreen: {instanceID: 0}
+  - cheesescreen: {instanceID: 0}
+  - dinerCall: {instanceID: 0}
+  - smokeBomb: {instanceID: 0}
+  - mazeDoor: {instanceID: 0}
+  - myCamera: {instanceID: 0}
+  - ratFight: {instanceID: 0}
+  - mazeStart: {instanceID: 0}
+  - sittingMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

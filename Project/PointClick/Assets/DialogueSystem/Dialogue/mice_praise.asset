@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: mice_praise
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: a1f9ee4543e7d3c4bb9419058687ca29, type: 2}
+    myText: Absolutely amazing! Compliments to the chef and his assistant!
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: 6815028207caf734d9c1a4d805d90af7, type: 2}
+    myText: Boy howdy, this is the roughest, toughest, leanest, meanest cheese I
+      have ever laid eyes on. Cheers, partner!
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: 3d3a182b47564344cbc0f5569e05d4d7, type: 2}
+    myText: Astounding! I never knew the tasiness of cheese could be so exponentially
+      increased!
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: c13b9de1df80fdc479bb3869a98b789e, type: 2}
+    myText: This is the best cheese I've ever eaten. Are you open the same time next
+      week?
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: 5e46686d402284c42bdb4b71c36ce68a, type: 2}
+    myText: ..Good...
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: cee306c2028b5384799c1442e6841b77, type: 2}
+    myText: Great food and great service! Five-stars!
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: faaf1a59447ace24ea4cb176c8885eab, type: 2}
+    myText: Now this here is some perfectly fine, delicious cheese!
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: 481a68a7c19497c44ae2a04021bda169, type: 2}
+    myText: I would shave if it meant I could eat this every day.
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: Alright then, human, that's enough praise for me to be satisfied. Thank
+      you, and here's your key! Just watch out for ghosts. The sitting room is super,
+      super haunted.  Best of luck, I'm heading back to the kitchen to prepare for
+      tomorrow's feast! I won't lose the order this time!
+    characterEmotion: 2
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: c069e5dbc8b3ce84fa746e3799a9aa9e, type: 3}
+  oldMusic: {fileID: 8300000, guid: b9a8ab31bd1480647b11a9d008b0870a, type: 3}

@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: ace6f89355b42ab4f819d7e59b079cea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7205109645780254324
+    second: GarageAssets_0
+  - first:
+      213: 5171424566459388073
+    second: GarageAssets_1
+  - first:
+      213: -2675626086198069874
+    second: GarageAssets_2
+  - first:
+      213: -4941084402753314660
+    second: GarageAssets_3
+  - first:
+      213: 2774916722391406138
+    second: GarageAssets_4
+  - first:
+      213: -5343683045436220103
+    second: GarageAssets_5
+  - first:
+      213: -7441149135043044305
+    second: GarageAssets_6
+  - first:
+      213: -8431449232776234247
+    second: GarageAssets_7
+  - first:
+      213: -249786089936039827
+    second: GarageAssets_8
+  - first:
+      213: -7274770652324718989
+    second: GarageAssets_9
+  - first:
+      213: -170819605232834349
+    second: GarageAssets_10
+  - first:
+      213: 7910931154365479948
+    second: GarageAssets_11
+  - first:
+      213: -5078593266094308805
+    second: GarageAssets_12
+  - first:
+      213: -5633577922208244663
+    second: GarageAssets_13
+  - first:
+      213: 5830042464558424439
+    second: GarageAssets_14
+  - first:
+      213: 6607063489554655884
+    second: GarageAssets_15
+  - first:
+      213: -2628750698333885734
+    second: GarageAssets_16
+  - first:
+      213: -7255190725433487460
+    second: GarageAssets_17
+  - first:
+      213: -7069581744429026103
+    second: GarageAssets_18
+  - first:
+      213: -8437360723425663632
+    second: GarageAssets_19
+  - first:
+      213: 6510099038719897506
+    second: GarageAssets_20
+  - first:
+      213: 5132932360290966648
+    second: GarageAssets_21
+  - first:
+      213: 4054342780466265425
+    second: GarageAssets_0
+  - first:
+      213: -7471149520462520849
+    second: GarageAssets_1
+  - first:
+      213: -1393469314288115867
+    second: GarageAssets_2
+  - first:
+      213: -4036073848512969014
+    second: GarageAssets_3
+  - first:
+      213: 579696324702695175
+    second: GarageAssets_4
+  - first:
+      213: 9031901370689438977
+    second: GarageAssets_5
+  - first:
+      213: -2300760255437795776
+    second: GarageAssets_6
+  - first:
+      213: 1552350992820463940
+    second: GarageAssets_7
+  - first:
+      213: 574152901640408158
+    second: GarageAssets_8
+  - first:
+      213: -9160971119224428274
+    second: GarageAssets_9
+  - first:
+      213: 744242288164385770
+    second: GarageAssets_10
+  - first:
+      213: 5370654252695307355
+    second: GarageAssets_11
+  - first:
+      213: 4310732060986492052
+    second: GarageAssets_12
+  - first:
+      213: -1174071443158568858
+    second: GarageAssets_13
+  - first:
+      213: 3823552540792487009
+    second: GarageAssets_14
+  - first:
+      213: 1808924137959568355
+    second: GarageAssets_15
+  - first:
+      213: -7525521228530248679
+    second: GarageAssets_16
+  - first:
+      213: 7324292882143430541
+    second: GarageAssets_17
+  - first:
+      213: -9063780254972018976
+    second: GarageAssets_18
+  - first:
+      213: 7999421911098621552
+    second: GarageAssets_19
+  - first:
+      213: 1500943417423697777
+    second: GarageAssets_20
+  - first:
+      213: 2962853243479568429
+    second: GarageAssets_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GarageAssets_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 569
+        width: 277
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d7c5b274be34830800000000000000
+      internalID: 4054342780466265425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 812
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed50015815215890800000000000000
+      internalID: -7471149520462520849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 820
+        width: 192
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f1374aa0769ace0800000000000000
+      internalID: -1393469314288115867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_3
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 691
+        width: 349
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac60424083cfcf7c0800000000000000
+      internalID: -4036073848512969014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 678
+        width: 273
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fe0876cbe7b0800800000000000000
+      internalID: 579696324702695175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 546
+        width: 295
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ce4e8172c75d70800000000000000
+      internalID: 9031901370689438977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 521
+        width: 209
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e0b45dcbe0210e0800000000000000
+      internalID: -2300760255437795776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 372
+        width: 381
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e9c5d00f0b8510800000000000000
+      internalID: 1552350992820463940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_8
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 16
+        width: 493
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4905a50dc7f700800000000000000
+      internalID: 574152901640408158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_9
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 368
+        width: 209
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09e301dd41bdd080800000000000000
+      internalID: -9160971119224428274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 270
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3bcdcfa64145a00800000000000000
+      internalID: 744242288164385770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 238
+        width: 159
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54485f7695688a40800000000000000
+      internalID: 5370654252695307355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 250
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494ccf068fbc2db30800000000000000
+      internalID: 4310732060986492052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 249
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6607a913e3cd4bfe0800000000000000
+      internalID: -1174071443158568858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 252
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7afd17ccff0530800000000000000
+      internalID: 3823552540792487009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_15
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 119
+        width: 206
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3b5bc5be69a1910800000000000000
+      internalID: 1808924137959568355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 254
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9141bc7805aff8790800000000000000
+      internalID: -7525521228530248679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 146
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87c41f029d15a560800000000000000
+      internalID: 7324292882143430541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 146
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee713c41ebf63280800000000000000
+      internalID: -9063780254972018976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 152
+        width: 130
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e728b68d7a30f60800000000000000
+      internalID: 7999421911098621552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 244
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1771087f51c64d410800000000000000
+      internalID: 1500943417423697777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarageAssets_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 36
+        width: 227
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20b63bb35b2e1920800000000000000
+      internalID: 2962853243479568429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

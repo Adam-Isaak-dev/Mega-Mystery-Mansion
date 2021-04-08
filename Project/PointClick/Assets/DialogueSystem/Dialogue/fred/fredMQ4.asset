@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d18a34cba86246d4f9b8e339015839f7, type: 3}
+  m_Name: fredMQ4
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: a461ad046bcc9a048884ea51d619e3ce, type: 2}
+    myText: For me, grooviness isn't just a word.  It's a feeling, a way of life. 
+      It brings the calm vibes.  I live, breathe and eat groovy.  Which is a metaphor,
+      because I don't breathe or eat anything.  But I am alive, and it's all because
+      of groovyness.
+    characterEmotion: 0
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: 0dab66326464acf4094370df7549f323, type: 3}
+  oldMusic: {fileID: 8300000, guid: 0dab66326464acf4094370df7549f323, type: 3}
+  questionText: Anything else?
+  optionsInfo:
+  - nextDialogue: {fileID: 11400000, guid: d8b9456b3969c3c408c07221c9c25297, type: 2}
+    buttonName: Can I join the dance-off?
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - nextDialogue: {fileID: 11400000, guid: 4e2d179295245234aa61984d23aa846b, type: 2}
+    buttonName: Is there a prize for winning?
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []

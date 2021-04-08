@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f305c7f14595a488e57ca6745d47e6, type: 3}
+  m_Name: cultCard
+  m_EditorClassIdentifier: 
+  myName: Cloaked Figure
+  myVoice: {fileID: 8300000, guid: 6a008d7409cac824abae3c0ac3c4bfd6, type: 3}
+  emotionPortraits:
+    standard: {fileID: -7822043571747016091, guid: de92e5f1b425f134683ad9c89b6785c5,
+      type: 3}
+    angry: {fileID: -1189640863658090318, guid: de92e5f1b425f134683ad9c89b6785c5,
+      type: 3}
+    happy: {fileID: -8599492255301977429, guid: de92e5f1b425f134683ad9c89b6785c5,
+      type: 3}
+    sad: {fileID: -4082465366409623566, guid: de92e5f1b425f134683ad9c89b6785c5, type: 3}

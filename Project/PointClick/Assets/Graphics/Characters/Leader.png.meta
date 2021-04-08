@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 6291a3a9f04d1c140b25621525cea691
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3950057059519903610
+    second: Leader_0
+  - first:
+      213: 4544175884827894153
+    second: Leader_1
+  - first:
+      213: -773675807822090546
+    second: Leader_2
+  - first:
+      213: 6980052357392613619
+    second: Leader_3
+  - first:
+      213: 8880610644584953182
+    second: Leader_4
+  - first:
+      213: -8336148345183705757
+    second: Leader_5
+  - first:
+      213: -1569315863988623443
+    second: Leader_6
+  - first:
+      213: 4271802700305755399
+    second: Leader_7
+  - first:
+      213: 1232509056094774829
+    second: Leader_8
+  - first:
+      213: 1713515306879770266
+    second: Leader_9
+  - first:
+      213: 2389895444270780679
+    second: Leader_10
+  - first:
+      213: -7981972291948521463
+    second: Leader_11
+  - first:
+      213: 3829347449011126899
+    second: Leader_12
+  - first:
+      213: -6544397599935707378
+    second: Leader_13
+  - first:
+      213: -3992635400175446276
+    second: Leader_14
+  - first:
+      213: -6963251356230727535
+    second: Leader_15
+  - first:
+      213: -7133285416765471378
+    second: Leader_16
+  - first:
+      213: 7071098380417640564
+    second: Leader_17
+  - first:
+      213: 5582416820298730855
+    second: Leader_18
+  - first:
+      213: -5341738136328668959
+    second: Leader_19
+  - first:
+      213: 9116434797739734277
+    second: Leader_20
+  - first:
+      213: 8481209218777738244
+    second: Leader_21
+  - first:
+      213: 2625418974083046842
+    second: Leader_0
+  - first:
+      213: -6372517026342547407
+    second: Leader_1
+  - first:
+      213: -5862622795408437724
+    second: Leader_2
+  - first:
+      213: -5248928067175633115
+    second: Leader_3
+  - first:
+      213: 7729468670603685410
+    second: Leader_4
+  - first:
+      213: -8298816362089131061
+    second: Leader_5
+  - first:
+      213: -1778345080069092537
+    second: Leader_6
+  - first:
+      213: -7037740706185570365
+    second: Leader_7
+  - first:
+      213: -2741061521833065985
+    second: Leader_8
+  - first:
+      213: -6592131659952131350
+    second: Leader_9
+  - first:
+      213: -7074626991858085244
+    second: Leader_10
+  - first:
+      213: -8631026512880001684
+    second: Leader_11
+  - first:
+      213: 1833741565767571172
+    second: Leader_12
+  - first:
+      213: 1704491759515757795
+    second: Leader_13
+  - first:
+      213: -3692978938329506338
+    second: Leader_14
+  - first:
+      213: -2530638027879790224
+    second: Leader_15
+  - first:
+      213: -4241699904626103418
+    second: Leader_16
+  - first:
+      213: -234144874986552067
+    second: Leader_17
+  - first:
+      213: -7621215657394073402
+    second: Leader_18
+  - first:
+      213: 3063057119955108069
+    second: Leader_19
+  - first:
+      213: 5707482052413599433
+    second: Leader_20
+  - first:
+      213: -8913027761156075470
+    second: Leader_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leader_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1430
+        width: 305
+        height: 389
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.14096516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5ac895ac5f6420800000000000000
+      internalID: 2625418974083046842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1621
+        width: 133
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13059bf07854097a0800000000000000
+      internalID: -6372517026342547407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1779
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e829b01a7c3aea0800000000000000
+      internalID: -5862622795408437724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1634
+        width: 120
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f2b60abbf0827b0800000000000000
+      internalID: -5248928067175633115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1420
+        width: 125
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ee7ddadc6944b60800000000000000
+      internalID: 7729468670603685410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_5
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1401
+        width: 60
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc35a79dc7ea4dc80800000000000000
+      internalID: -8298816362089131061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_6
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1598
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b0b6e529c0257e0800000000000000
+      internalID: -1778345080069092537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_7
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1600
+        width: 168
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c790828d1ce45e90800000000000000
+      internalID: -7037740706185570365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_8
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1524
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff106a3911bc5f9d0800000000000000
+      internalID: -2741061521833065985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1497
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae272ff8e2b0484a0800000000000000
+      internalID: -6592131659952131350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1429
+        width: 143
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48298efdb30e1dd90800000000000000
+      internalID: -7074626991858085244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1416
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d1fcc9d1f683880800000000000000
+      internalID: -8631026512880001684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1395
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6d17d0d32c27910800000000000000
+      internalID: 1833741565767571172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 942
+        width: 463
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec6488793297a710800000000000000
+      internalID: 1704491759515757795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_14
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1093
+        width: 146
+        height: 271
+      alignment: 9
+      pivot: {x: 0.66636723, y: 0.79129535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddded9c837efbcc0800000000000000
+      internalID: -3692978938329506338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_15
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1072
+        width: 144
+        height: 292
+      alignment: 9
+      pivot: {x: 0.45783105, y: 0.83966523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079412d1f1e51ecd0800000000000000
+      internalID: -2530638027879790224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 645
+        width: 381
+        height: 257
+      alignment: 9
+      pivot: {x: 0.48937473, y: 0.49212456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68be3f409647225c0800000000000000
+      internalID: -4241699904626103418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_17
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 558
+        width: 186
+        height: 526
+      alignment: 9
+      pivot: {x: 0.7067648, y: 0.807852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4c27c0a7620ccf0800000000000000
+      internalID: -234144874986552067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_18
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 660
+        width: 151
+        height: 382
+      alignment: 9
+      pivot: {x: 0.31233266, y: 0.82852316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c091601db00c3690800000000000000
+      internalID: -7621215657394073402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 266
+        height: 607
+      alignment: 9
+      pivot: {x: 0.59131384, y: 0.8901528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0c7a9c83a228a20800000000000000
+      internalID: 3063057119955108069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 23
+        width: 210
+        height: 490
+      alignment: 9
+      pivot: {x: 0.4903611, y: 0.8965635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea708efac053f40800000000000000
+      internalID: 5707482052413599433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leader_21
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 233
+        height: 589
+      alignment: 9
+      pivot: {x: 0.35231692, y: 0.8711471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230d81779709e4480800000000000000
+      internalID: -8913027761156075470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

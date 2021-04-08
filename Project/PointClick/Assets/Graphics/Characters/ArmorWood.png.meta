@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 6266eb03e0c7d8744b7abdd8e301c714
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7255755586653732881
+    second: ArmorWood_0
+  - first:
+      213: -5589995190926892348
+    second: ArmorWood_1
+  - first:
+      213: 7178539726878663812
+    second: ArmorWood_2
+  - first:
+      213: -6577001646040981604
+    second: ArmorWood_3
+  - first:
+      213: -7253708479142425832
+    second: ArmorWood_4
+  - first:
+      213: -5867600568985884685
+    second: ArmorWood_5
+  - first:
+      213: -5450701168587810344
+    second: ArmorWood_6
+  - first:
+      213: 1253380624707608465
+    second: ArmorWood_7
+  - first:
+      213: -1126216883446223526
+    second: ArmorWood_8
+  - first:
+      213: -7210184465478201650
+    second: ArmorWood_9
+  - first:
+      213: -8060142570157668705
+    second: ArmorWood_10
+  - first:
+      213: 3356405461299491686
+    second: ArmorWood_11
+  - first:
+      213: 9074057590554376411
+    second: ArmorWood_12
+  - first:
+      213: 2376701896221424405
+    second: ArmorWood_13
+  - first:
+      213: 6846898443952355784
+    second: ArmorWood_14
+  - first:
+      213: 4409407435200824634
+    second: ArmorWood_15
+  - first:
+      213: -1001115004190899118
+    second: ArmorWood_16
+  - first:
+      213: -4891815285933139399
+    second: ArmorWood_17
+  - first:
+      213: -3788273575151117172
+    second: ArmorWood_18
+  - first:
+      213: 3052012457063819620
+    second: ArmorWood_19
+  - first:
+      213: -3244882387601624151
+    second: ArmorWood_0
+  - first:
+      213: 4561287104829864372
+    second: ArmorWood_1
+  - first:
+      213: 297355872701292612
+    second: ArmorWood_2
+  - first:
+      213: 6584630389418991415
+    second: ArmorWood_3
+  - first:
+      213: 4582490573121440124
+    second: ArmorWood_4
+  - first:
+      213: 7803542062586480865
+    second: ArmorWood_5
+  - first:
+      213: 2738110184133195026
+    second: ArmorWood_6
+  - first:
+      213: 3645390214421545911
+    second: ArmorWood_7
+  - first:
+      213: 5930854193118350427
+    second: ArmorWood_8
+  - first:
+      213: 3736445659542459424
+    second: ArmorWood_9
+  - first:
+      213: -108855663577779049
+    second: ArmorWood_10
+  - first:
+      213: -8549990933504869107
+    second: ArmorWood_11
+  - first:
+      213: 1607986378192883009
+    second: ArmorWood_12
+  - first:
+      213: 7650823581747668961
+    second: ArmorWood_13
+  - first:
+      213: 8102655401347248384
+    second: ArmorWood_14
+  - first:
+      213: 5413682365551156970
+    second: ArmorWood_15
+  - first:
+      213: -5729475759345969081
+    second: ArmorWood_16
+  - first:
+      213: 1783761972006183197
+    second: ArmorWood_17
+  - first:
+      213: -8532672887364882626
+    second: ArmorWood_18
+  - first:
+      213: -4728430392270322784
+    second: ArmorWood_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArmorWood_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1024
+        width: 290
+        height: 313
+      alignment: 9
+      pivot: {x: 0.51020443, y: 0.32036358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3751d19acd7f2d0800000000000000
+      internalID: -3244882387601624151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1224
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b934f18472fc4f30800000000000000
+      internalID: 4561287104829864372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1057
+        width: 218
+        height: 255
+      alignment: 9
+      pivot: {x: 0.66205084, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440ac3c379b602400800000000000000
+      internalID: 297355872701292612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1044
+        width: 216
+        height: 264
+      alignment: 9
+      pivot: {x: 0.2022527, y: 0.51715595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f9f8ac37e416b50800000000000000
+      internalID: 6584630389418991415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1111
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ca7da5e6489f30800000000000000
+      internalID: 4582490573121440124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 732
+        width: 145
+        height: 280
+      alignment: 9
+      pivot: {x: 0.683679, y: 0.81706524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e849463920cb4c60800000000000000
+      internalID: 7803542062586480865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 716
+        width: 163
+        height: 279
+      alignment: 9
+      pivot: {x: 0.21859667, y: 0.76516825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215732194b8bff520800000000000000
+      internalID: 2738110184133195026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 691
+        width: 316
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3084ef517079230800000000000000
+      internalID: 3645390214421545911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_8
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 684
+        width: 140
+        height: 371
+      alignment: 9
+      pivot: {x: 0.43529838, y: 0.9101837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c84733770ae4250800000000000000
+      internalID: 5930854193118350427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 486
+        width: 137
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5066119, y: 0.8156034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241493e7858ad330800000000000000
+      internalID: 3736445659542459424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 495
+        width: 127
+        height: 204
+      alignment: 9
+      pivot: {x: 0.46433792, y: 0.8374634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79438a8c9544d7ef0800000000000000
+      internalID: -108855663577779049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 396
+        width: 268
+        height: 246
+      alignment: 9
+      pivot: {x: 0.46620065, y: 0.76511884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0db1a7bb84585980800000000000000
+      internalID: -8549990933504869107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_12
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 371
+        width: 142
+        height: 301
+      alignment: 9
+      pivot: {x: 0.6148226, y: 0.794919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d8adb6717b05610800000000000000
+      internalID: 1607986378192883009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_13
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 376
+        width: 171
+        height: 288
+      alignment: 9
+      pivot: {x: 0.27751723, y: 0.792505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e76045038f2d2a60800000000000000
+      internalID: 7650823581747668961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 335
+        width: 81
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5335492, y: 0.7904167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001f3b6682a627070800000000000000
+      internalID: 8102655401347248384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 330
+        width: 85
+        height: 126
+      alignment: 9
+      pivot: {x: 0.4680298, y: 0.86664253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee1975bd63412b40800000000000000
+      internalID: 5413682365551156970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 63
+        width: 136
+        height: 297
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8202404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748d8f62720dc70b0800000000000000
+      internalID: -5729475759345969081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 43
+        width: 165
+        height: 318
+      alignment: 9
+      pivot: {x: 0.39569312, y: 0.7933954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d116741101231c810800000000000000
+      internalID: 1783761972006183197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 128
+        height: 249
+      alignment: 9
+      pivot: {x: 0.6132279, y: 0.8055786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f620c873bd59980800000000000000
+      internalID: -8532672887364882626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorWood_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 138
+        height: 241
+      alignment: 9
+      pivot: {x: 0.4015411, y: 0.77813643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3019b4c9d316eb0800000000000000
+      internalID: -4728430392270322784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

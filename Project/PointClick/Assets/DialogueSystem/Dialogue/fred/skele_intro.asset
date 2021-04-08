@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: skele_intro
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: a461ad046bcc9a048884ea51d619e3ce, type: 2}
+    myText: All right my groovy guys and groovy girls and groovy inbetweens, I once
+      again welcome you to this year's annual Disco Bones Dance-Off!
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: a461ad046bcc9a048884ea51d619e3ce, type: 2}
+    myText: The rules are the same as always, but this time I have a special guest
+      helping me judge!
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: a461ad046bcc9a048884ea51d619e3ce, type: 2}
+    myText: Alright, my groovy friend, let's keep it simple.  All these fine bone
+      folk are part of the same routine. I need you to watch them.  If you notice
+      one make a mistake, tell me after each number. Got it?  Alright, without further
+      delay, let the Dance-Off begin!
+    characterEmotion: 2
+  tutorialTrigger: 12
+  myMusic: {fileID: 8300000, guid: d2aa35259ec1f0c4c9bd9ba025b479c9, type: 3}
+  oldMusic: {fileID: 8300000, guid: d2aa35259ec1f0c4c9bd9ba025b479c9, type: 3}

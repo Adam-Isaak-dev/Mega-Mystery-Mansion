@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: f438a1ff1fd692f4aa12af7eb8492f93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5792024165129499730
+    second: hat
+  - first:
+      213: -1962871195434815468
+    second: rat_1
+  - first:
+      213: -1846784345090356148
+    second: head
+  - first:
+      213: 5805352310553353871
+    second: eyeR
+  - first:
+      213: -76163187086504920
+    second: pupil
+  - first:
+      213: -2626696982801730832
+    second: LegL
+  - first:
+      213: -7615604394129478213
+    second: LegR
+  - first:
+      213: -7579182567190294128
+    second: eyeL
+  - first:
+      213: 158983605654032899
+    second: nose
+  - first:
+      213: -4550084578846169200
+    second: ArmL
+  - first:
+      213: 624974917677838921
+    second: ArmR
+  - first:
+      213: 233227185538982242
+    second: body
+  - first:
+      213: -9110663751760808958
+    second: earR
+  - first:
+      213: 7897794080140760568
+    second: tail
+  - first:
+      213: -4679908621350711778
+    second: earL
+  - first:
+      213: -8821285449112441906
+    second: WhiskerL
+  - first:
+      213: -8438064085747700567
+    second: WhiskerR
+  - first:
+      213: -6187566449718343411
+    second: fez
+  - first:
+      213: 5409125635697446399
+    second: tophat
+  - first:
+      213: 7214286444255957323
+    second: tie
+  - first:
+      213: 2260184906524635808
+    second: mice_0
+  - first:
+      213: -4719848685942174195
+    second: mice_1
+  - first:
+      213: 1558051775016702784
+    second: trenchhat
+  - first:
+      213: 2691582991785365177
+    second: coat
+  - first:
+      213: 3223953661849203861
+    second: earring
+  - first:
+      213: 4728874394740479133
+    second: necklace
+  - first:
+      213: -2229339239390577963
+    second: mono
+  - first:
+      213: -3354898826251992984
+    second: mice_3
+  - first:
+      213: -1697298737970934219
+    second: mice_4
+  - first:
+      213: -3177054071214235707
+    second: wig
+  - first:
+      213: 7947126190888226188
+    second: yeehaw
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 324
+        height: 274
+      alignment: 9
+      pivot: {x: 0.50017256, y: 0.23108958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b439ac85b5484c459eb5038145b6efd
+      internalID: 5792024165129499730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat_1
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 953
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e5fa5c48c919d46bf8d0874d7a2337
+      internalID: -1962871195434815468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 801
+        width: 434
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a575cf3b7a97949b4cdca12909c98b
+      internalID: -1846784345090356148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeR
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 810
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5d40f1be727054283f22e875bd82d4
+      internalID: 5805352310553353871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pupil
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 713
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dd543839c00974b82dd5cb568d6130
+      internalID: -76163187086504920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegL
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 582
+        width: 195
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e5668bc8cd67446847fe209045219e
+      internalID: -2626696982801730832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegR
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 588
+        width: 173
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286692110cdf63f4b8de9847c2b56bf7
+      internalID: -7615604394129478213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeL
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 565
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe66b05ae0fc1b43bf7e5b0905315fe
+      internalID: -7579182567190294128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nose
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 502
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bcb2521246b3f4db9b1bf15e46078a
+      internalID: 158983605654032899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmL
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 310
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82b8bfb1f77e2a4ebcfe7915b552cc2
+      internalID: -4550084578846169200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmR
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 291
+        width: 131
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd35463955c8b7418811c3906ab4552
+      internalID: 624974917677838921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 87
+        width: 293
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d4146286e1ef64e873a0541f8c03a9
+      internalID: 233227185538982242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earR
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 331
+        width: 239
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e65593a37f64345b8ea1c78ab9f837
+      internalID: -9110663751760808958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tail
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 570
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8439abfb3c62244e804769525add7e8
+      internalID: 7897794080140760568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earL
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 51
+        width: 239
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d583439e4dd8f64ea4bcf7e4af7b05d
+      internalID: -4679908621350711778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiskerL
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 568
+        width: 186
+        height: 97
+      alignment: 9
+      pivot: {x: 0.9287111, y: 0.8838715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e2ea3c6663d6498ce9f3608c3b789
+      internalID: -8821285449112441906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiskerR
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 567
+        width: 217
+        height: 94
+      alignment: 9
+      pivot: {x: 0.050231513, y: 0.8858909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345f896735d29243a241d7669578765
+      internalID: -8438064085747700567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fez
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 653
+        width: 213
+        height: 212
+      alignment: 9
+      pivot: {x: 0.38153622, y: 0.3072962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09c96cd819512aa0800000000000000
+      internalID: -6187566449718343411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tophat
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 439
+        width: 232
+        height: 179
+      alignment: 9
+      pivot: {x: 0.4241812, y: 0.15985124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd843d5b13111b40800000000000000
+      internalID: 5409125635697446399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tie
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 117
+        width: 158
+        height: 262
+      alignment: 9
+      pivot: {x: 0.46197587, y: 0.6651001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41dac15c4b4e1460800000000000000
+      internalID: 7214286444255957323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mice_0
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 75
+        width: 131
+        height: 62
+      alignment: 9
+      pivot: {x: 0.23400506, y: 0.6356601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b910923acd5f10800000000000000
+      internalID: 2260184906524635808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mice_1
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 76
+        width: 131
+        height: 61
+      alignment: 9
+      pivot: {x: 0.74765086, y: 0.5984876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e82d080aabf7eb0800000000000000
+      internalID: -4719848685942174195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trenchhat
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 265
+        width: 375
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043998f95df4f9510800000000000000
+      internalID: 1558051775016702784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coat
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 601
+        width: 305
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be89dc687c6a5520800000000000000
+      internalID: 2691582991785365177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earring
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 924
+        width: 44
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5247997, y: 0.666418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59477d236c8cdbc20800000000000000
+      internalID: 3223953661849203861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: necklace
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 860
+        width: 155
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9452f5153650a140800000000000000
+      internalID: 4728874394740479133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 621
+        width: 191
+        height: 214
+      alignment: 9
+      pivot: {x: 0.44573814, y: 0.59431213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf848f5cbcf01e0800000000000000
+      internalID: -2229339239390577963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wig
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 226
+        width: 235
+        height: 346
+      alignment: 9
+      pivot: {x: 0.3178794, y: 0.32167214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf111da726d8e3d0800000000000000
+      internalID: -3177054071214235707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeehaw
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 25
+        width: 369
+        height: 155
+      alignment: 9
+      pivot: {x: 0.46755695, y: 0.11823088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d88193a2dd94e60800000000000000
+      internalID: 7947126190888226188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2bdaff2b2f7b74f48ad7a59b7d70b671
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

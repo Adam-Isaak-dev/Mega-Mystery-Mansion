@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 71507ea38ee414642936434fef9075e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -22604014985437746
+    second: PoolSpectre_0
+  - first:
+      213: -4509398215449215846
+    second: PoolSpectre_1
+  - first:
+      213: 7488247120877224350
+    second: PoolSpectre_2
+  - first:
+      213: -538327967644246585
+    second: PoolSpectre_3
+  - first:
+      213: -3745507099940048656
+    second: PoolSpectre_4
+  - first:
+      213: -2622017312332037233
+    second: PoolSpectre_5
+  - first:
+      213: 7479057110631532871
+    second: PoolSpectre_6
+  - first:
+      213: -8440104497594043125
+    second: PoolSpectre_7
+  - first:
+      213: 426992056037745907
+    second: PoolSpectre_8
+  - first:
+      213: -2904794227115254137
+    second: PoolSpectre_9
+  - first:
+      213: -8448205600603326267
+    second: PoolSpectre_10
+  - first:
+      213: 7870522111613418935
+    second: PoolSpectre_11
+  - first:
+      213: -1357856784923177465
+    second: PoolSpectre_0
+  - first:
+      213: -9055585672247018550
+    second: PoolSpectre_1
+  - first:
+      213: 8747888447304103473
+    second: PoolSpectre_2
+  - first:
+      213: 8009498926988180951
+    second: PoolSpectre_3
+  - first:
+      213: -2751210274823194619
+    second: PoolSpectre_4
+  - first:
+      213: 3754999690626808859
+    second: PoolSpectre_5
+  - first:
+      213: 4843239476505086701
+    second: PoolSpectre_6
+  - first:
+      213: -4645463493832385210
+    second: PoolSpectre_7
+  - first:
+      213: 4585847430114110821
+    second: PoolSpectre_8
+  - first:
+      213: -8490308263759326251
+    second: PoolSpectre_10
+  - first:
+      213: -3109587259492378722
+    second: PoolSpectre_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoolSpectre_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1379
+        width: 145
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eccc6c27ce72de0800000000000000
+      internalID: -1357856784923177465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoolSpectre_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1355
+        width: 311
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb79944fc8145280800000000000000
+      internalID: -9055585672247018550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoolSpectre_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1127
+        width: 349
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136fd4cc13eb66970800000000000000
+      internalID: 8747888447304103473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoolSpectre_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1086
+        width: 95
+        height: 250
+      alignment: 9
+      pivot: {x: 0.54881316, y: 0.7967837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddb00486d4772f60800000000000000
+      internalID: 8009498926988180951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoolSpectre_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1073
+        width: 139
+        height: 248
+      alignment: 9
+      pivot: {x: 0.36655444, y: 0.6807532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50832c2e4dcb1d9d0800000000000000
+      internalID: -2751210274823194619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoolSpectre_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 104
+        height: 274
+      alignment: 9
+      pivot: {x: 0.45541114, y: 0.78771216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0c3fa4a4a63340800000000000000
+      internalID: 4843239476505086701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoolSpectre_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 814
+        width: 221
+        height: 253
+      alignment: 9
+      pivot: {x: 0.63289243, y: 0.77493536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d5319a09ff78fb0800000000000000
+      internalID: -4645463493832385210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoolSpectre_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 787
+        width: 270
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56de61ad0f334af30800000000000000
+      internalID: 4585847430114110821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoolSpectre_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 59
+        width: 46
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e903b6a0910b7d0800000000000000
+      internalID: -2904794227115254137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoolSpectre_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 46
+        width: 239
+        height: 670
+      alignment: 9
+      pivot: {x: 0.4547271, y: 0.9060472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3df012e9d5c2a80800000000000000
+      internalID: -8490308263759326251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoolSpectre_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 173
+        width: 199
+        height: 507
+      alignment: 9
+      pivot: {x: 0.25920528, y: 0.82012516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9750efdcd688d4d0800000000000000
+      internalID: -3109587259492378722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

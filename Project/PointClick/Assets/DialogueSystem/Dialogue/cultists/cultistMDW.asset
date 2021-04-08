@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: cultistMDW
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 76e9a1fb71190e543b39f9b7d98b09c4, type: 2}
+    myText: ...That is not your destiny.
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 76e9a1fb71190e543b39f9b7d98b09c4, type: 2}
+    myText: ...However...
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: 76e9a1fb71190e543b39f9b7d98b09c4, type: 2}
+    myText: ...It is OUR destiny.  One who knows this knowledge is a true brother
+      or sister.  As you have shown this...
+    characterEmotion: 3
+  - character: {fileID: 11400000, guid: 76e9a1fb71190e543b39f9b7d98b09c4, type: 2}
+    myText: You are free to go.  Learn from this, and never return!  Farewell!
+    characterEmotion: 1
+  tutorialTrigger: 29
+  myMusic: {fileID: 0}
+  oldMusic: {fileID: 0}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: bolt_weak
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 4f6935256d2bda744bfcb5fee5c651d7, type: 2}
+    myText: YOU ARE IMPRESSIVE, MAYBE, BUT YOU STILL CAN'T DEFEAT ME.  I AM TOO STRONG. 
+      THIS FORM'S ONLY WEAKNESS ARE THE BOLTS HOLDING IT TOGETHER. AND I HID THE
+      ONLY BOLT-UNDOING TOOL ELSEWHERE IN THE HOUSE. HA HA HA HA HA HA!
+    characterEmotion: 0
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: d1285ca2ce90bd94e8e868337f7f7d51, type: 3}
+  oldMusic: {fileID: 8300000, guid: d1285ca2ce90bd94e8e868337f7f7d51, type: 3}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: ratFight4
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: Perhaps we should settle this like *actual* chefs.
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 9420d39cb731f3d4c95430ce99d1d5fe, type: 2}
+    myText: Like by hitting each other with frying pans?
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: No, like with a cookoff.  The frying pans could be a backup plan, though.
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 9420d39cb731f3d4c95430ce99d1d5fe, type: 2}
+    myText: Very well, let's go upstairs and sort this out! Hahahaha!
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: Oh yes, and human.  Thanks for your help again.  If your soul gets banished
+      by these cultists, you can always come and join the cookoff.  Good luck not
+      getting your soul banished, I guess.  So long!
+    characterEmotion: 0
+  tutorialTrigger: 26
+  myMusic: {fileID: 8300000, guid: ac48626adf053514fb5157f030a1eaaa, type: 3}
+  oldMusic: {fileID: 8300000, guid: 0c467aec55f43d649896685f208ad802, type: 3}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: armour_intro
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 030734fd75bed844192579c3d31757e4, type: 2}
+    myText: YOU THOUGHT IT WOULD BE THAT EASY? YOU THOUGHT YOU COULD COME IN HERE
+      AND TAKE THE KEY, JUST LIKE THAT?  YOU'RE SO FOOLISH YOU DON'T KNOW WHAT A
+      FOOL YOU ARE.
+    characterEmotion: 1
+  - character: {fileID: 11400000, guid: 030734fd75bed844192579c3d31757e4, type: 2}
+    myText: THE KEY IS MINE NOW.  YOU CANNOT DEFEAT ME.  EXCEPT MAYBE WITH A SCREWDRIVER. 
+      WHICH, AS FAR AS I KNOW, YOU DO NOT HAVE!
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 030734fd75bed844192579c3d31757e4, type: 2}
+    myText: YOU MAY BE WONDERING 'OH, BIG SCARY METAL CONSTRUCT OF DEATH, WHY ARE
+      YOU DOING THIS?' TO WHICH I SAY "SILENCE"!  YOU CANNOT DEFEAT ME.  I AM TO
+      POWERFUL. TOO PERFECT.
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 030734fd75bed844192579c3d31757e4, type: 2}
+    myText: HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA
+      HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA
+      HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA
+      HA HA HA HA HA HA HA. HA.
+    characterEmotion: 1
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: d1285ca2ce90bd94e8e868337f7f7d51, type: 3}
+  oldMusic: {fileID: 8300000, guid: d1285ca2ce90bd94e8e868337f7f7d51, type: 3}

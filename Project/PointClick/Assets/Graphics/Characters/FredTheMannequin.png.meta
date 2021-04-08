@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 8f80cd73b872b6b439f609b128fe2498
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5332178449862338806
+    second: FredTheMannequin_0
+  - first:
+      213: -2284930260709213474
+    second: FredTheMannequin_1
+  - first:
+      213: -8945270632549137599
+    second: FredTheMannequin_2
+  - first:
+      213: -2358969614056158727
+    second: FredTheMannequin_3
+  - first:
+      213: 5908401664634235121
+    second: FredTheMannequin_4
+  - first:
+      213: -7489850546495700071
+    second: FredTheMannequin_5
+  - first:
+      213: 1831234779514391924
+    second: FredTheMannequin_6
+  - first:
+      213: 3769261546784990478
+    second: FredTheMannequin_7
+  - first:
+      213: -4328277100740129623
+    second: FredTheMannequin_8
+  - first:
+      213: -6229321634033774085
+    second: FredTheMannequin_9
+  - first:
+      213: -3447392606940405375
+    second: FredTheMannequin_10
+  - first:
+      213: -3842483534718184758
+    second: FredTheMannequin_11
+  - first:
+      213: 8272608852165431499
+    second: FredTheMannequin_12
+  - first:
+      213: 593400991200038389
+    second: FredTheMannequin_13
+  - first:
+      213: 8108103748691089069
+    second: FredTheMannequin_14
+  - first:
+      213: 1634110195330758702
+    second: FredTheMannequin_0
+  - first:
+      213: -4086032244022885495
+    second: FredTheMannequin_1
+  - first:
+      213: 5479594390349925291
+    second: FredTheMannequin_2
+  - first:
+      213: -3560185364312661911
+    second: FredTheMannequin_3
+  - first:
+      213: 4917882570042670274
+    second: FredTheMannequin_4
+  - first:
+      213: -337927247961627119
+    second: FredTheMannequin_5
+  - first:
+      213: -1290055371171079931
+    second: FredTheMannequin_6
+  - first:
+      213: 5232489585266026753
+    second: FredTheMannequin_7
+  - first:
+      213: 889482672318687378
+    second: FredTheMannequin_8
+  - first:
+      213: 8419866118243579146
+    second: FredTheMannequin_9
+  - first:
+      213: -5880925437451651441
+    second: FredTheMannequin_10
+  - first:
+      213: 6538985297904187945
+    second: FredTheMannequin_11
+  - first:
+      213: -339009658689542490
+    second: FredTheMannequin_12
+  - first:
+      213: -7029425778061314020
+    second: FredTheMannequin_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FredTheMannequin_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 861
+        width: 467
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28b88490968da610800000000000000
+      internalID: 1634110195330758702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1220
+        width: 251
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9834932a25f7b47c0800000000000000
+      internalID: -4086032244022885495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 655
+        width: 314
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babc70ed01e6b0c40800000000000000
+      internalID: 5479594390349925291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_3
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 827
+        width: 234
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9606999164ea79ec0800000000000000
+      internalID: -3560185364312661911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 646
+        width: 127
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc7a723424df3440800000000000000
+      internalID: 4917882570042670274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 473
+        width: 126
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116625955f07f4bf0800000000000000
+      internalID: -337927247961627119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_6
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 547
+        width: 255
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50953c4997dc81ee0800000000000000
+      internalID: -1290055371171079931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 260
+        width: 139
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10966bc0e898d9840800000000000000
+      internalID: 5232489585266026753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 405
+        width: 268
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298ab6d17c3185c00800000000000000
+      internalID: 889482672318687378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_9
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 424
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05714acf9f59d470800000000000000
+      internalID: 8419866118243579146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 94
+        width: 131
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b22e1971c26ea0800000000000000
+      internalID: -5880925437451651441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 78
+        width: 124
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ab411cb742fba50800000000000000
+      internalID: 6538985297904187945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_12
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 186
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a62266f2889b4bf0800000000000000
+      internalID: -339009658689542490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredTheMannequin_13
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 16
+        width: 183
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c187ea39f76727e90800000000000000
+      internalID: -7029425778061314020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

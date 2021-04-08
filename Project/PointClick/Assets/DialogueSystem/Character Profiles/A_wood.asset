@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f305c7f14595a488e57ca6745d47e6, type: 3}
+  m_Name: A_wood
+  m_EditorClassIdentifier: 
+  myName: Mysterious Automation
+  myVoice: {fileID: 8300000, guid: 237acd821cb53a34f91fdf1c27b430b7, type: 3}
+  emotionPortraits:
+    standard: {fileID: -1743847422868927342, guid: d9187f29f4cc42e4681f6ad833377b6f,
+      type: 3}
+    angry: {fileID: 7681016037398473056, guid: d9187f29f4cc42e4681f6ad833377b6f, type: 3}
+    happy: {fileID: 7681016037398473056, guid: d9187f29f4cc42e4681f6ad833377b6f, type: 3}
+    sad: {fileID: -1743847422868927342, guid: d9187f29f4cc42e4681f6ad833377b6f, type: 3}

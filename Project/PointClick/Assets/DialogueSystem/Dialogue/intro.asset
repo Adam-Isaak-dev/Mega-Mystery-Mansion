@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: intro
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: ee4b336d4ebfce144b78013e366b1065, type: 2}
+    myText: ...Come forward...
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: ee4b336d4ebfce144b78013e366b1065, type: 2}
+    myText: You have entered this mansion at your own peril...
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: ee4b336d4ebfce144b78013e366b1065, type: 2}
+    myText: Now you will be forever trapped in this mansion...
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: ee4b336d4ebfce144b78013e366b1065, type: 2}
+    myText: Unless you pass the Trial of Wit.
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: ee4b336d4ebfce144b78013e366b1065, type: 2}
+    myText: Now come.  Choose your Destiny.  Take care to remember, it will decide
+      your fate...
+    characterEmotion: 2
+  tutorialTrigger: 1
+  myMusic: {fileID: 8300000, guid: 18f42310fa825f8459bd84cbc464f02a, type: 3}
+  oldMusic: {fileID: 8300000, guid: 18f42310fa825f8459bd84cbc464f02a, type: 3}

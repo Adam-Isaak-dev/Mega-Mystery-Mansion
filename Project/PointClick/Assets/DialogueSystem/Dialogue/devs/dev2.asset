@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d18a34cba86246d4f9b8e339015839f7, type: 3}
+  m_Name: dev2
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 6290364853dca7547ba12fdc42dcacd0, type: 2}
+    myText: Ok so you are a human fighter named Joe.  You hit things with a sword
+      until they die.  We also have a Druid who turns into a bear and hits things
+      until they die, a Ranger who shoots things until they die, and a Rogue who
+      stabs things until they die. I'm the Dungeon Master.
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 6290364853dca7547ba12fdc42dcacd0, type: 2}
+    myText: Anyway, last we left our 'heroes' they were about to be attacked by a
+      pack of orcs because the Druid flunked the group stealth roll.  Roll initaitive.
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 6290364853dca7547ba12fdc42dcacd0, type: 2}
+    myText: 13..!
+    characterEmotion: 3
+  - character: {fileID: 11400000, guid: 6290364853dca7547ba12fdc42dcacd0, type: 2}
+    myText: 28 with advantage!
+    characterEmotion: 1
+  - character: {fileID: 11400000, guid: 6290364853dca7547ba12fdc42dcacd0, type: 2}
+    myText: ...4.
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: 6290364853dca7547ba12fdc42dcacd0, type: 2}
+    myText: And the new Fighter got 16.  Ranger, you're first!
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 6290364853dca7547ba12fdc42dcacd0, type: 2}
+    myText: I shoot the rightmost orc.  Then I also send my pet-
+    characterEmotion: 1
+  - character: {fileID: 11400000, guid: 6290364853dca7547ba12fdc42dcacd0, type: 2}
+    myText: The orc is dead.  Because Ranger.  Okay Fighter, your turn!
+    characterEmotion: 0
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: 3c1b427d2f77ba14ab047e835a4ca15a, type: 3}
+  oldMusic: {fileID: 8300000, guid: 3c1b427d2f77ba14ab047e835a4ca15a, type: 3}
+  questionText: What will you do?
+  optionsInfo:
+  - nextDialogue: {fileID: 11400000, guid: 17f6d62044c0cf3428acc7cfb39b16bf, type: 2}
+    buttonName: Attack the Left Orc
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - nextDialogue: {fileID: 11400000, guid: 17f6d62044c0cf3428acc7cfb39b16bf, type: 2}
+    buttonName: Attack the Right Orc
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []

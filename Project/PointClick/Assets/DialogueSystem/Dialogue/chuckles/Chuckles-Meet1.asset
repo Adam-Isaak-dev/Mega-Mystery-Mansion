@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d18a34cba86246d4f9b8e339015839f7, type: 3}
+  m_Name: Chuckles-Meet1
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: '*sniff* *sniff* ...I''ll be out in a minute, I promise, just give me
+      a few more minutes to make it perfect..!'
+    characterEmotion: 3
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: ...Hmmm?
+    characterEmotion: 3
+  - character: {fileID: 11400000, guid: 1872d69e4eab9e945b89fbc374c80875, type: 2}
+    myText: Oh, you're not a mouse.  What do you want then, huh?  I'm kind of busy. 
+      Very busy.  So busy, that's me.
+    characterEmotion: 0
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: c069e5dbc8b3ce84fa746e3799a9aa9e, type: 3}
+  oldMusic: {fileID: 8300000, guid: c069e5dbc8b3ce84fa746e3799a9aa9e, type: 3}
+  questionText: What do you want?
+  optionsInfo:
+  - nextDialogue: {fileID: 11400000, guid: 31aa7a62c25264c4c99c102b0a1a5645, type: 2}
+    buttonName: You're a talking mouse?
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - nextDialogue: {fileID: 11400000, guid: 43cb4e499e2ec7e4d89b027b69c9ef31, type: 2}
+    buttonName: I'm looking for a way out of here.
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - nextDialogue: {fileID: 11400000, guid: 8e111ffc5f0d0964abf8f70554d3dd0b, type: 2}
+    buttonName: Why were you crying?
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []
+  - nextDialogue: {fileID: 11400000, guid: 52d5185a66212eb4495e5ac13a1ded04, type: 2}
+    buttonName: Does anyone live here?
+    myEvent:
+      m_PersistentCalls:
+        m_Calls: []

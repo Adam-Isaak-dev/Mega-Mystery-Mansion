@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813b5184b4e4a64f8c12b8973560df4, type: 3}
+  m_Name: wood_intro
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - character: {fileID: 11400000, guid: 90c889551b037ba44b3185245148e9f3, type: 2}
+    myText: HA, YOU THOUGHT YOU HAD DEFEATED ME, BUT NO.  WHAT A FOOL.  I AM OF MANY
+      FORMS.  ALL INTIMIDATING AND WITHOUT WEAKNESS.  EXCEPT THE LAST ONE WITH THE
+      SCREWDRIVER... AND THIS ONE WITH THE-
+    characterEmotion: 2
+  - character: {fileID: 11400000, guid: 90c889551b037ba44b3185245148e9f3, type: 2}
+    myText: WAIT, NO, NO.  I SHOULDN'T SAY IT.  I AM A *BIT* IMPRESSED, MAYBE.  I
+      WON'T GIVE YOU THAT KEY THOUGH.  IT'S IMPORTANT TO ME THAT YOU SUFFER.
+    characterEmotion: 0
+  - character: {fileID: 11400000, guid: 90c889551b037ba44b3185245148e9f3, type: 2}
+    myText: WHY? BECAUSE YOU HELPED THAT DREADFUL LITTLE RAT WITH THE CHEF HAT. 
+      HE WAS SO CLOSE TO FAILURE AND THEN YOU SWOOPED IN AND MADE HIM A SUBJECT OF
+      AWE AND REVERENCE.  I.  HATE.  THAT.  RAT.
+    characterEmotion: 1
+  - character: {fileID: 11400000, guid: 90c889551b037ba44b3185245148e9f3, type: 2}
+    myText: BUT THAT ALL ISN'T IMPORTANT BECAUSE YOU ARE AT MY MERCY NOW.  THIS FORM
+      IS BETTER THAN THE LAST AND IS COMPLETELY IMPENITRABLE. HA HA HA.
+    characterEmotion: 1
+  tutorialTrigger: 0
+  myMusic: {fileID: 8300000, guid: d1285ca2ce90bd94e8e868337f7f7d51, type: 3}
+  oldMusic: {fileID: 8300000, guid: d1285ca2ce90bd94e8e868337f7f7d51, type: 3}
