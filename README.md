@@ -14,7 +14,6 @@ This project is designed to create a point and click adventure game where the pl
 -	Project start date was Feb 3, 2020.
 -	This project end date was June 12, 2020.
 -	You will need unity in order to run the project files.
--	Otherwise look at them manually.
 -	If you need to run the project use the .exe
 
 
